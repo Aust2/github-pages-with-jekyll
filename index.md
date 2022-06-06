@@ -1,7 +1,7 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to Austin's blog"
 ---
 
-I'm glad you are here. I plan to talk about my accomplishments and a little about myself.
+This is Austin's Blog. I'm glad you are here. I plan to talk about my accomplishments and a little about myself.
 
-![image](https://user-images.githubusercontent.com/105722268/172257646-1b6592ed-9594-4322-b560-458cbf9887d6.png)
+![IMG_9320](https://user-images.githubusercontent.com/105722268/172258508-c1016f3a-ce60-4965-bbff-286d90cebec9.jpg)
