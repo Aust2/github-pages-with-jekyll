@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Welcome to my blog! Have fun!
 
 # social links
-twitter_username: austwitter
+twitter_username: _austining
 github_username:  austinstagram
 
 show_excerpts: true # set to false to remove excerpts on the homepage
