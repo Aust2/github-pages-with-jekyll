@@ -9,4 +9,4 @@ This is Austin's Blog. I'm glad you are here. I plan to talk about my accomplish
 Brag Sheet:
 1. Secretary at AYLUS
 2. Co-President at TCCC during the 2021-2022 term
-3. Varsity Athlete
+3. Varsity Athlete (Swimmer)
